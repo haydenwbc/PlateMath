@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>507964721526-tdusrrs93r0gv1nbq31tt91puvmv8f23.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.507964721526-tdusrrs93r0gv1nbq31tt91puvmv8f23</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAg9VCvtrQ_bZzo_8NjqQGjSBzfR6c522U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>507964721526</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>bindustries.TrainingDay02</string>
+	<key>PROJECT_ID</key>
+	<string>trainingday02</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trainingday02.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:507964721526:ios:7b554fc67b4dde5f3fd257</string>
+</dict>
+</plist>
